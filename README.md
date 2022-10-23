@@ -1,7 +1,7 @@
 # PeakCaseP
  
 Dev Notes
-- Erdem Süren Peak Project -
+- Erdem Süren Peak Project
 
 *All changes can be done via the “SetGame” object in the hierarchy.
 
