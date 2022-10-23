@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2681cbc098370ed4db1ec5c3380d4b08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - texture: {instanceID: 0}
+  - destroyParticleEffect: {fileID: 8045948154186947833, guid: 6fc8fce173f70744d8603b6a6866ee6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
